@@ -4,8 +4,12 @@
 
 to clone the repo, run the following code in your terminal.
 
-    git clone https://github.com/r4wand/create-meteor-vue-app.git
+    $ git clone https://github.com/r4wand/create-meteor-vue-app.git
 
-then remove remote and initialize your own.
+then install npm dependencies using
+
+    $ npm install
+
+also remove the git and initialize your own.
 
 happy coding!
