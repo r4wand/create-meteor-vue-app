@@ -8,8 +8,8 @@ to clone the repo, run the following code in your terminal.
 
 then install npm dependencies using
 
-    $ npm install
+    $ meteor npm install
 
-also remove the git and initialize your own.
+you can also remove git remote and initialize your own.
 
 happy coding!
