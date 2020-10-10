@@ -1,6 +1,6 @@
-## Meteor and Vue.js made easy
+# Meteor and Vue.js made easy
 
-##### simply clone this repo and you'll have a working meteor and vue.js project.
+## simply clone this repo and you'll have a working meteor and vue.js project.
 
 to clone the repo, run the following code in your terminal.
 
